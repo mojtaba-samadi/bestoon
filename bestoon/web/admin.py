@@ -5,3 +5,4 @@ from web.models import *
 # Register your models here.
 
 admin.site.register(Expense)
+admin.site.register(Income)
